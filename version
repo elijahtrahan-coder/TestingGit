@@ -1,0 +1,5 @@
+{
+  "version": "1.0.3",
+  "download": "https://example.com/game.zip",
+  "mandatory": false
+}
